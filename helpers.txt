@@ -1,0 +1,6 @@
+OutputDebugString(L"Текст\n"); - вывод строки в отладочное окно студии
+
+Форматированная строка:
+int const arraysize = 3;
+TCHAR lptstrStatupOSPaert[arraysize];
+StringCbPrintf(lptstrStatupOSPaert, arraysize * sizeof(TCHAR), TEXT("%d"), 51);
