@@ -1,5 +1,7 @@
 ##VPN Connection Setup
+
 ###Description
+
 Designed for internet provider. Easy creating a VPN connections for dummies :-).
 
 ![Dialog Window](https://raw.github.com/nezhelskoy/VPNConnectionSetup/master/VPNConnectionSetup.png "Dialog Window")
@@ -12,4 +14,5 @@ Designed for internet provider. Easy creating a VPN connections for dummies :-).
 - setting the most important options;
 
 ###Details
+
 Used native Win32 API. Tested on Windows 2000, XP, Vista, 7.
